@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 1 of C:\Users\reinholdsson\git\vscode-example\examples\snakemake\Snakefile:
+Missing input files for rule all:
+data/result.csv

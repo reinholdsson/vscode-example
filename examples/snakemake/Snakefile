@@ -1,0 +1,17 @@
+rule all:
+    input:
+        "data/result.csv"
+
+rule a:
+    output:
+        "data/prep.csv"
+    script:
+        "scripts/job.R"
+
+rule b:
+    input:
+        "data/prep.csv"
+    output:
+        "data/result.csv"
+    script:
+        "scripts/job.py"

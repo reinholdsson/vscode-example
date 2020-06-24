@@ -1,5 +1,5 @@
 {
-    "r.rterm.windows": "C:/Users/reinholdsson/Desktop/vsc-test/.env/R/bin/x64/Rterm.exe",
-    "python.pythonPath": "C:/Users/reinholdsson/Desktop/vsc-test/.env/python.exe",
+    "r.rterm.windows": "C:/Users/reinholdsson/git/vscode-example/.env/R/bin/x64/Rterm.exe",
+    "python.pythonPath": "C:/Users/reinholdsson/git/vscode-example/.env/python.exe",
     "python.dataScience.sendSelectionToInteractiveWindow": false
 }
